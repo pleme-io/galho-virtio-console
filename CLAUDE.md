@@ -1,5 +1,8 @@
 # galho-virtio-console — operator instructions
 
+> **★★★ CSE / Knowable Construction.** This repo operates under **Constructive Substrate Engineering** — canonical specification at [`pleme-io/theory/CONSTRUCTIVE-SUBSTRATE-ENGINEERING.md`](https://github.com/pleme-io/theory/blob/main/CONSTRUCTIVE-SUBSTRATE-ENGINEERING.md). The Compounding Directive (operational rules: solve once, load-bearing fixes only, idiom-first, models stay current, direction beats velocity) is in the org-level pleme-io/CLAUDE.md ★★★ section. Read both before non-trivial changes.
+
+
 The first userspace driver on every brasa boot. virtio-console provides the typed bidirectional byte stream used as the boot log sink and the generic console endpoint.
 
 See [brasa ADR-0004](https://github.com/pleme-io/brasa/blob/main/docs/adrs/0004-tatara-lisp-authoring.md) for the `(defdriver …)` authoring surface this driver is generated around.
