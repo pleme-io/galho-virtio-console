@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "cargo_lock_sha256": "608039e9afb3ede1e033985f42e4f0056eea4bac8d494416af7cf3c548126c80",
+  "cargo_lock_sha256": "bdac59a8d9f8e35192eb1164024608c49fc93a1363f95f2927a2ea838b31db5d",
   "target_resolves": {
     "base": {
       "bitflags-2.11.1": {
@@ -633,11 +633,11 @@
     }
   },
   "git_nar_sha256": {
-    "casca-0.0.1": "sha256-RtOCcm2RNfJ2+zYCyQPe7LUlcWA9N8DuHBNnXtN0kQ4=",
-    "folha-0.0.1": "sha256-RtOCcm2RNfJ2+zYCyQPe7LUlcWA9N8DuHBNnXtN0kQ4=",
-    "galho-0.0.1": "sha256-RtOCcm2RNfJ2+zYCyQPe7LUlcWA9N8DuHBNnXtN0kQ4=",
-    "raiz-0.0.1": "sha256-RtOCcm2RNfJ2+zYCyQPe7LUlcWA9N8DuHBNnXtN0kQ4=",
-    "seiva-0.0.1": "sha256-RtOCcm2RNfJ2+zYCyQPe7LUlcWA9N8DuHBNnXtN0kQ4="
+    "casca-0.0.1": "sha256-vxZx0vzaOby65ki0Z+GKXwfOHYJtsX9ADwO7FUY9vvY=",
+    "folha-0.0.1": "sha256-vxZx0vzaOby65ki0Z+GKXwfOHYJtsX9ADwO7FUY9vvY=",
+    "galho-0.0.1": "sha256-vxZx0vzaOby65ki0Z+GKXwfOHYJtsX9ADwO7FUY9vvY=",
+    "raiz-0.0.1": "sha256-vxZx0vzaOby65ki0Z+GKXwfOHYJtsX9ADwO7FUY9vvY=",
+    "seiva-0.0.1": "sha256-vxZx0vzaOby65ki0Z+GKXwfOHYJtsX9ADwO7FUY9vvY="
   },
   "flake_metadata": {}
 }
